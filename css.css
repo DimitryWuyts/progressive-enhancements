@@ -62,7 +62,8 @@ tr:nth-child(odd) {background-color: white;}
 tr:nth-child(even) {background-color: gray;}
 
 img {float: left;
-margin: 30px:}
+    width: 30%;
+margin: 30px;}
 
 table, th, td {
     border: 1px solid black;
